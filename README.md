@@ -10,7 +10,6 @@ Ok then...
 <hr>
 
 ```python
-if CookieEaten
- print("Munch Munch!")
- print("lol")
+if Cookie = Eaten
+ print("Munch!")
 ```
