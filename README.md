@@ -1,9 +1,9 @@
-# Hippity hoppity our code is your property
-Welcome to the official repository for Levi's website! 
+# Hippity hoppity, our code is your property
+Welcome to the official repository for Levi Bot's website! 
 
 You're still here? Oh.
 
-Y tho?
+Why though?
 
 Ok then...
 
