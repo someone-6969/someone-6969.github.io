@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(125deg, rgba(31,51,98,1) 35%, rgba(151,231,243,1) 100%);
+  background: linear-gradient(49deg, rgba(9,9,121,1) 35%, rgba(66,0,239,1) 100%);
   padding: 0;
 }
 
